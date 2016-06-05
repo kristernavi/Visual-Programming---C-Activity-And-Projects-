@@ -1,0 +1,79 @@
+C:\Users\jeson bungabong\Documents\Visual Studio 2010\Projects\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.ProfessorForm.resources
+C:\Users\jeson bungabong\Documents\Visual Studio 2010\Projects\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.Properties.Resources.resources
+C:\Users\jeson bungabong\Documents\Visual Studio 2010\Projects\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.StudentForm.resources
+C:\Users\jeson bungabong\Documents\Visual Studio 2010\Projects\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.SubjectForm.resources
+C:\Users\jeson bungabong\Documents\Visual Studio 2010\Projects\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.csproj.GenerateResource.Cache
+C:\Users\jeson bungabong\Documents\Visual Studio 2010\Projects\Prefinal_Garcia\Prefinal_Garcia\bin\Debug\Prefinal_Garcia.exe
+C:\Users\jeson bungabong\Documents\Visual Studio 2010\Projects\Prefinal_Garcia\Prefinal_Garcia\bin\Debug\Prefinal_Garcia.pdb
+C:\Users\jeson bungabong\Documents\Visual Studio 2010\Projects\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.exe
+C:\Users\jeson bungabong\Documents\Visual Studio 2010\Projects\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.pdb
+C:\Users\jeson bungabong\Documents\Visual Studio 2010\Projects\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.DBConnectionForm.resources
+C:\Users\jeson bungabong\Documents\Visual Studio 2010\Projects\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.csprojResolveAssemblyReference.cache
+C:\Users\jeson bungabong\Documents\Visual Studio 2010\Projects\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.SubjectOfferForm.resources
+C:\Users\jeson bungabong\Documents\Visual Studio 2010\Projects\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.EnrollmentForm.resources
+C:\Users\jeson bungabong\Documents\Visual Studio 2010\Projects\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.EnrollmentView.resources
+C:\Users\jeson bungabong\Documents\Visual Studio 2010\Projects\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.MainForm.resources
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.exe
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.pdb
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\bin\Debug\Prefinal_Garcia.exe
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\bin\Debug\Prefinal_Garcia.pdb
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.DBConnectionForm.resources
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.EnrollmentForm.resources
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.EnrollmentView.resources
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.MainForm.resources
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.ProfessorForm.resources
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.Properties.Resources.resources
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.StudentForm.resources
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.SubjectForm.resources
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.SubjectOfferForm.resources
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\bin\Debug\EnrollmentSystem.sdf
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\bin\Debug\Prefinal_Garcia.exe.config
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.GeneratReportsForm.resources
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\RdlCompile.cache
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\RdlCompile.compiled
+C:\Users\TEMP.PC06A.003\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.LoginForm.resources
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\bin\Debug\Prefinal_Garcia.exe.config
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.exe
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.pdb
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\bin\Debug\EnrollmentSystem.sdf
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\bin\Debug\Prefinal_Garcia.exe
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\bin\Debug\Prefinal_Garcia.pdb
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.csprojResolveAssemblyReference.cache
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.DBConnectionForm.resources
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.EnrollmentForm.resources
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.EnrollmentView.resources
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.GeneratReportsForm.resources
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.LoginForm.resources
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.MainForm.resources
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.ProfessorForm.resources
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.Properties.Resources.resources
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.StudentForm.resources
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.SubjectForm.resources
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.SubjectOfferForm.resources
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.csproj.GenerateResource.Cache
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\RdlCompile.cache
+C:\Users\jeson bungabong\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\bin\Debug\Prefinal_Garcia.exe.config
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.exe
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.pdb
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\bin\Debug\EnrollmentSystem.sdf
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\bin\Debug\Prefinal_Garcia.exe
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\bin\Debug\Prefinal_Garcia.pdb
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.csprojResolveAssemblyReference.cache
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.DBConnectionForm.resources
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.EnrollmentForm.resources
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.EnrollmentView.resources
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.GeneratReportsForm.resources
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.LoginForm.resources
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.MainForm.resources
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.ProfessorForm.resources
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.Properties.Resources.resources
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.StudentForm.resources
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.SubjectForm.resources
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.SubjectOfferForm.resources
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\Prefinal_Garcia.csproj.GenerateResource.Cache
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\RdlCompile.cache
+C:\Users\Sandra Suarez\Desktop\Prefinal_Garcia\Prefinal_Garcia\obj\x86\Debug\RdlCompile.compiled
